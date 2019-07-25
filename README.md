@@ -2,4 +2,6 @@
 App for emulating the Wemo switch controlled by Amazon Echo!
 
 Hopping to finish this project sooner!
-//App was created locally -> pushed to GitHub ->files added locally -> then pushed to GitHub.
+
+//App was **created in GitHub**-> cloned in local ->files added locally -> then pushed in GitHub.
+
